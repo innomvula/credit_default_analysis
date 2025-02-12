@@ -29,6 +29,5 @@ Develop a predictive model to classify customers as either likely to **default**
 
 ## 🔹 Technology Used
 - **Python**
-- **Pandas, NumPy**
-- **Scikit-learn, XGBoost**
-- **Matplotlib, Seaborn**
+- **Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn**
+- **Logistic Regression, Random Forest, XGBoost**
