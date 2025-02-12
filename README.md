@@ -32,6 +32,3 @@ Develop a predictive model to classify customers as either likely to **default**
 - **Pandas, NumPy**
 - **Scikit-learn, XGBoost**
 - **Matplotlib, Seaborn**
-
-## 📬 Contact
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername) | your.email@example.com
