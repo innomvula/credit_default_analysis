@@ -28,6 +28,6 @@ Develop a predictive model to classify customers as either likely to **default**
 - Model Evaluation (AUC-ROC, Confusion Matrix)  
 
 ## Technology Used
-- **Python**
-- **Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn**
-- **Logistic Regression, Random Forest, XGBoost**
+- Python
+- Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- Logistic Regression, Random Forest, XGBoost
